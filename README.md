@@ -65,11 +65,12 @@ f. inconsistence
 
 How I explore:
 
-- Distribution of numerical variables
-- Histograms to compare the churn with continuous quantitative variables
-- Counterplots of categorical variables
-- Correlation matrix of numerical variables
-- Confront the target variable with numerical variables
+- Distribution of numerical variables.
+- Histograms to compare the churn with continuous quantitative variables.
+- Counterplots of categorical variables.
+- Correlation matrix of numerical variables.
+- Confront the target variable with continuous.quantitative variables using boxplots and scatterplots.
+
 
 ## Conclusion
 
