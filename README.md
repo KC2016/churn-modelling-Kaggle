@@ -49,4 +49,28 @@ This data set contains details of a bank's customers and the target variable is 
 
 ## EDA - Exploratory Data Analysis
 
+What I consider:
+
+a. customer profile
+
+b. important variables (types, target, distribution, measures)
+
+c. Multicolinearity
+
+d. missing values
+
+e. outliers
+
+f. inconsistence
+
+How I explore:
+
+- Distribution of numerical variables
+- Histograms to compare the churn with continuous quantitative variables
+- Counterplots of categorical variables
+- Correlation matrix of numerical variables
+- Confront the target variable with numerical variables
+
 ## Conclusion
+
+The analysis find the most probable customer profiles to churn, which the bank should to work to retain.
