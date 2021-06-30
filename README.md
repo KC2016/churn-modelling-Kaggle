@@ -24,7 +24,7 @@ Therefore, churn is a customer cancellation rate
 
 **What are the reasons for churn?**
 
-The resasons I can investigate with the data I have:
+The reasons I can investigate with the data I have:
 - The customer has no cash flow and can no longer afford the monthly fee for his/her product/service;
 - He/she cannot see value in the product/service;
 - The customer did not have their expectations met;
@@ -92,4 +92,4 @@ How I explore:
 
 ## Conclusion
 
-The analysis find the most probable customer profiles to churn, which the bank should to work to retain.
+The analysis find the most probable customer profiles to churn, which the bank should to work to retain. And identify clients with purchase potential.
